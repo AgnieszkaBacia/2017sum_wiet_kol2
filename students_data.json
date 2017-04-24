@@ -1,0 +1,236 @@
+{
+    "name": "Diary 1A",
+    "subject": [
+        "Informatics",
+        "Geology",
+        "History",
+        "Math",
+        "Polish",
+        "English",
+        "Music",
+        "Art"
+    ],
+    "student": [
+        {
+            "name": "Incredible Hulk",
+            "attendance": 6,
+            "Informatics": [
+                3,
+                1,
+                2
+            ],
+            "Geology": [
+                6,
+                6,
+                6
+            ],
+            "History": [
+                2,
+                1,
+                1
+            ],
+            "Math": [
+                5,
+                4,
+                6
+            ],
+            "Polish": [
+                2,
+                3,
+                2
+            ],
+            "English": [
+                2,
+                5,
+                6
+            ],
+            "Music": [
+                1,
+                2,
+                6
+            ],
+            "Art": [
+                3,
+                5,
+                3
+            ]    
+
+        },
+        {
+            "name": "Captain America",
+            "attendance": 6,
+            "Informatics": [
+                4,
+                4,
+                4
+            ],
+            "Geology": [
+                2,
+                3,
+                3
+            ],
+            "History": [
+                2,
+                4,
+                6
+            ],
+            "Math": [
+                2,
+                4,
+                6
+            ],
+            "Polish": [
+                4,
+                3,
+                6
+            ],
+            "English": [
+                2,
+                5,
+                6
+            ],
+            "Music": [
+                2,
+                2,
+                2
+            ],
+            "Art": [
+                3,
+                3,
+                3
+            ]    
+        },
+        {
+            "name": "Green Lantern",
+            "attendance": 7,
+            "Informatics": [
+                4,
+                4,
+                4
+            ],
+            "Geology": [
+                2,
+                3,
+                3
+            ],
+            "History": [
+                2,
+                4,
+                6
+            ],
+            "Math": [
+                2,
+                4,
+                6
+            ],
+            "Polish": [
+                4,
+                3,
+                6
+            ],
+            "English": [
+                2,
+                5,
+                6
+            ],
+            "Music": [
+                2,
+                2,
+                2
+            ],
+            "Art": [
+                3,
+                3,
+                3
+            ]    
+        },
+        {
+            "name": "Iron Man",
+            "attendance": 9,
+            "Informatics": [
+                4,
+                4,
+                4
+            ],
+            "Geology": [
+                2,
+                3,
+                3
+            ],
+            "History": [
+                2,
+                4,
+                6
+            ],
+            "Math": [
+                2,
+                4,
+                6
+            ],
+            "Polish": [
+                4,
+                3,
+                6
+            ],
+            "English": [
+                2,
+                5,
+                6
+            ],
+            "Music": [
+                2,
+                2,
+                2
+            ],
+            "Art": [
+                3,
+                3,
+                3
+            ]    
+        },
+        {
+            "name": "Thor",
+            "attendance": 1,
+            "Informatics": [
+                4,
+                4,
+                4
+            ],
+            "Geology": [
+                2,
+                3,
+                3
+            ],
+            "History": [
+                2,
+                4,
+                6
+            ],
+            "Math": [
+                2,
+                4,
+                6
+            ],
+            "Polish": [
+                4,
+                3,
+                6
+            ],
+            "English": [
+                2,
+                5,
+                6
+            ],
+            "Music": [
+                2,
+                2,
+                2
+            ],
+            "Art": [
+                3,
+                3,
+                3
+            ]    
+        }
+    ]
+}
